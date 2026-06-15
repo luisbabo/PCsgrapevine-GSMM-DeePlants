@@ -1,0 +1,256 @@
+{
+  "C1=CC(=C(C=C1/C=C/C(=O)O[C@H]([C@H](C(=O)O)O)C(=O)O)O)O": {
+    "kegg": [],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-5048",
+        "types": [
+          "Rosmarinate-Biosynthesis"
+        ],
+        "comment": [
+          "<b>General background:</b> Rosmarinic acid (RA) is an ester of caffeic acid and 3,4-dihydrophenyllactic acid and is\nwidely spread in species of the <i>Lamiaceae</i> and <i>Boraginaceae</i> |CITS: [12482446]| but also occurs in lower\nplants such as ferns and hornworts |CITS: [TAKEDA90]| |CITS: [12721853]|. Beside rosmarinic acid its 3'-O-&beta;-glucoside\n(|FRAME:CPD-7018|) has been identified in the hornwort <i>Anthoceros agrestis</i> |CITS: [16133208]| accumulating\nup to 1% of the cell dry weight. Other rosmarinic acid derivatives of biological importance are lithospermic acid, a conjugate\nof rosmarinic acid and caffeic acid, and lithospermic acid B a dimer of rosmarinic acid |CITS: [12482446]|.\n\nThe biosynthesis of rosmarinic acid has been extensively studied for two reasons. Rosmarinic acid has been shown to be\na useful compound with regard to medicine virtue and as food additive. In addition, RA is considered as a preformed,\nconstitutively accumulated compound involved in the defense against microbes |CITS: [SZABO99]|. The other reason\nwas the challenge to unravel the interesting biosynthesis consisting of two parallel biosynthetic pathways that have to\nbe regulated in a coordinated manner |CITS: [11943155]|.\n\n<b>About the pathway</b>: The first report about the biosynthetic route of rosmarinic acid was published in 1970\n|CITS: [5484678]| demonstrating the involvement of two aromatic amino acids, L-tyrosine and L-phenylalanine in the\nbiogenesis of rosmarinate. Since then the entire pathway has been elucidated, mostly in <i>Coleus blumei</i>\n(syn. <i>Solenostemon scutellarioides</i> - <i>Lamiaceae</i> family) including most of the involved enzymatic steps\n|CITS: [PETERSEN93]| |CITS: [PETERSEN93]|.\n\nCoumaroyl-CoA is one of the essential components being used for the assembly of rosmarinic acid. It is derived from\nL-phenylalanine in three well characterized enzymatic steps in plants catalyzed by L-phenylalanine-ammonia-lyase\n(PAL), cinnamic acid 4-hydroxylase (C4H) and 4-coumaric acid-CoA ligase (4CL) (compare |FRAME:PWY1F-467|).\nSome of those enzymes have been purified from lower plants like hornworts as well |CITS: 12721853[]| indicating that\nthe general biosynthetic route of rosmarinic acid seems to be identical in higher and lower plants.\n\nThe other metabolic branch contributing to the biosynthesis of RA originates from L-tyrosine resulting in the formation of\n4-hydroxyphenyllactate (4HPL). The two moieties of the parallel pathways are connected by rosmarinic acid synthase\n(RAS) catalyzing a transesterification reaction |CITS: [PETERSEN88]| |CITS: [PETERSEN91]|. The RAS accepted\ncaffeoyl-CoA and 3,4-dihydroxyphenyllactic acid (DHPL) resulting in the formation of rosmarinic acid. It should be noted\nthat only the R(+)-stereoisomer of 3,4-dihydroxyphenyllactic acid is accepted by the RAS. On the other side 4-coumaroyl-CoA\nand either DHPL or its monohydroxylated isomer, 4-hydroxyphenyllactic acid (pHPL) was converted to their corresponding\ncoumaroyl-hydroxyphenyllactates. The enzymatic capability of RAS and the precedent enzyme hydroxypuruvate reductase\n|CITS: [HAUSLER91]| |CITS: [15284489]| to accept different substrates (mono- or dihydroxylated forms of phenyllactates/phenylacetates)\nprompted the proposition for a potential second biosynthetic route for RA (|FRAME:PWY-5049|).\n\nThe last steps in this pathway are catalyzed by two cytochrome P450 dependent monooxygenases introducing hydroxyl\ngroups to the 3- and 3'-position of 4-coumaroyl-4'-hydroxyphenyllactate |CITS: [PETERSEN97]| |CITS: [11943155]|.\nWhereas the 3-hydroxylation of this hydroxycinnamic acid ester has been established the 3'-hydroxylation has yet to be\nfully characterized.\n"
+        ],
+        "synonyms": []
+      },
+      {
+        "pathway_id": "PWY-7498",
+        "types": [
+          "Metabolic-Clusters",
+          "PHENYLPROPANOID-SYN"
+        ],
+        "comment": [
+          "The common ice plant (<i>Mesembryanthemum crystallinum</i>), a member of the <i>Aizoaceae</i> family in the order <i>Caryophyllales</i> has been studied with focus on its unique phenylpropanoid metabolism. The <i>Caryophyllales</i> often substitute the chromophoric anthocyanins with betacyanins as fruit and flowers pigments (see for instance |FRAME:PWY-5399 betacyanin biosynthesis|) |CITS:[Mabry80]|. Under high intensity irradiation and exposure to UV a variety of methylated and glucosylated flavonol conjugates and feruloylglucose accumulate in bladder cells of young and epidermal cells of mature leaves |CITS:[10570827] [Ibdah02]|. The ice plant has also received attention due to the chemopreventive effects of <i>Mesembryanthemum</i> plant extracts on colon carcinogenesis in animal cancer tests |CITS:[Ibtissem12]|.\n\nUtilizing a cDNA library obtained from irradiated leaves of <i>Mesembryanthemum crystallinum</i>  a multi-specific <i>O</i>-methyltransferase has been identified and characterized which probably contributes <i>in vivo</i> to the observed diversity of methylated phenylpropanoids. The penylpropanoid and flavonoid <i>O</i>-methyltransferase (PFOMT) has been shown to specifically methylate the <i>meta</i>-position of aromatic vicinal dihydroxy groups covering a broad range of phenylpropanoids from cinnamic acids and respective CoA and glucosylated derivatives to a number of flavonoids including flavonols, flavones and flavanones which maintained the structure of vicinal dihydroxy groups |CITS:[12941960]|.\n\nThe PFOMT belongs to the class I of OMT's which are characterized by cation (Mg<sup>2+</sup>) dependence and high substrate specificity, properties which are shared throughout the OMT's of this class between animals and plants |CITS:[11459845]|. In order to elaborate on the deviating catalytic behavior of the ice plant <i>O</i>-methyltransferase the PFOMT has been crystallized and studied in more detail using site-directed mutagenesis and <i>in silico</i> docking experiments. This research revealed the structure of the N-terminus and a variable loop near the C-terminus as the probable reason for the substrate promiscuity of PFOMT. The importance of the N-terminus for regiospecificity and catalytic properties of plant <i>O</i>-methyltransferase had already been reported |CITS:[15013769]|. Only small changes in these two regions (N- and C-terminus) transformed the broad substrate specificity of the PFOMT into the narrow substrate specificity of a CCoAOMT |CITS:[18342334]|.\n"
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "C1[C@H]([C@H](OC2=C1C(=CC(=C2[C@@H]3[C@H]([C@H](OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O": {
+    "kegg": [
+      "map00941",
+      "map00940"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6029",
+        "types": [
+          "FLAVONOID-SYN",
+          "Metabolic-Clusters"
+        ],
+        "comment": [
+          "Flavonoids are highly diverse class of plant plant polyphenols (with about 9000 compounds have been identified\nso far |CITS: [16137727]| that impart much of the color and flavor of fruits and vegetables. They exhibit a\nwide range of biological functions in higher plants such as UV protection, flower coloration, and antimicrobial a\nactivity |CITS: [11130659]|. They also exhibit antioxidant and anticancer properties |CITS: [12224601]| |CITS: [18645020]|.\n\nFlavanols\n\nFlavanols also called flavan-3-ols represent a classs of flavonoids and are the building blocks of condensed tannins.\nThey are antioxidants and clinical studies have shown the anticancer protective effects of flavanols catechin,\nepicatechin, gallocatechin, and epigallocatechin |CITS: [14725861]|. It has recently been shown that epicatechin\npresent in dark chocolate has potential to promote cardiovascular health in humans.\n\nFlavan-3-ols exist in two sterioisofoms namely 2,3-<i>trans</i>-flavan-3-ols and 2,3-<i>cis</i>-flavan-3-ols.\n|FRAME:MONOMER-14180| converts leucoanthocyanidins to their corresponding 2,3-<i>trans</i>-flavan-3-ols."
+        ],
+        "synonyms": [
+          "flavan-3-ols biosynthesis"
+        ]
+      }
+    ]
+  },
+  "CC(=O)OCC1[C@H](C(C([C@@H](O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C=C4)O)OC)O)O)O)O)O": {
+    "kegg": [],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6062",
+        "types": [
+          "ANTHOCYANIN-SYN"
+        ],
+        "comment": [
+          "Peonidin is an anthocyanidin. Peonidin gives purplish-red hues to flowers such as the peony, from which\nit takes its name. It is also present in some blue flowers, such as the morning glory. Like most anthocyanidins\nit is pH sensitive, and changes from red to blue as pH rises. Unlike many anthocyanidins, however, it is\nstable at higher pH. Fresh fruits such as cranberries, blueberries, plums, grapes, and cherries contain significant\namounts of peonidin. Peonidin also exist as peonidin glycosides and acylated peonidin glycosides. Peonidin\nand its glycosides have been shown to inhibit tumor cell growth and induce apoptosis in vitro |CITS: [17404064]|, |CITS: [16573384]|."
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4C(C([C@@H](C(O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O)O": {
+    "kegg": [
+      "map00940"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6062",
+        "types": [
+          "ANTHOCYANIN-SYN"
+        ],
+        "comment": [
+          "Peonidin is an anthocyanidin. Peonidin gives purplish-red hues to flowers such as the peony, from which\nit takes its name. It is also present in some blue flowers, such as the morning glory. Like most anthocyanidins\nit is pH sensitive, and changes from red to blue as pH rises. Unlike many anthocyanidins, however, it is\nstable at higher pH. Fresh fruits such as cranberries, blueberries, plums, grapes, and cherries contain significant\namounts of peonidin. Peonidin also exist as peonidin glycosides and acylated peonidin glycosides. Peonidin\nand its glycosides have been shown to inhibit tumor cell growth and induce apoptosis in vitro |CITS: [17404064]|, |CITS: [16573384]|."
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "C1=CC(=CC=C1[C@H]2[C@H]3[C@H]([C@@H](C4=C3C=C(C=C4O)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)O": {
+    "kegg": [
+      "map00941"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-2002",
+        "types": [
+          "ISOFLAVONOID-PHYTOALEXINS",
+          "ISOFLAVONOID-SYN"
+        ],
+        "comment": [
+          "Isoflavonoids comprise a large group of secondary metabolites involved in plant-pathogen and plant-animal\nchemical warfare. These compounds are also involved in establishing the symbiotic relationship between legumes\nand rhizobial bacteria. Isoflavonoids are restrictive distributed in the plant kingdom, being mostly biosynthesized in\nplants of the subfamily Papilionoideae of the Leguminosae.\n\nMuch of the interest in these secondary metabolites is based upon the finding that isoflavones and related\ncompounds can act as estrogens in humans. Consequently, those compounds have now been termed\nphytoestrogens. In view of  their perceived chemopreventive activities against hormone-dependent cancers,\ncardiovascular disease, and postmenopausal ailments, isoflavonoids are considered as major targets for metabolic\nengineering.\n"
+        ],
+        "synonyms": []
+      },
+      {
+        "pathway_id": "PWY-2083",
+        "types": [
+          "ISOFLAVONOID-PHYTOALEXINS",
+          "ISOFLAVONOID-SYN"
+        ],
+        "comment": [
+          "Isoflavones represent the largest group of natural isoflavonoids, with some 364 known aglycones reported\n|CITS: [DEWICK94]|. Their synthesis from flavanones is catalyzed by isoflavone synthase, a cytochrome\nP450 - dependent monooxygenase.\n\nIsoflavones (daidzein, genistein) are common precursor in the biosynthesis of antimicrobial\nphytoalexins (<i>de novo</i> synthesis) and phytoanticipins (pre-formed infectional inhibitors) in legumes. They\nalso play a major role in establishing the symbiotic relationship between the plant and rhizobial bacteria as\nchemoattractants for the bacteria and inducers of nod gene expression.\n\n"
+        ],
+        "synonyms": []
+      },
+      {
+        "pathway_id": "PWY-6602",
+        "types": [
+          "FLAVANONES-SYN"
+        ],
+        "comment": [
+          "C-glycosylflavanones are widely present as secondary metabolites in plants. The sugars are attached directly to the flavonoid skeleton. This makes such flavonoids resistant to acid hydrolysis. The accumulation of C-glycosylflavones has been used by taxonomists in chemosystematics studies of certain families like Compositae |CITS:[VALANT-VETSCHERA85]|.\nC-glycosyl flavones have been isolated from a number of plant sources; flavoayamenin and luteoayamenin from petals of Iris nertshinskia, and swertisin and swertiajaponin |CITS: [HIROSE81]|. In cereals, the C-glycosylflavones are involved in several important physiological functions including plant defense and are also valuable as nutritive components |CITS: [20647377]|. These phytocompounds have been shown to have several useful metabolic benefits as antioxidants, in cereals they are usually localized in the bran which is not consumed, therefore to metabolically engineer these useful compounds into the endosperm tissue (the consumed portion) it is necessary to know the biochemical machinery underlying the biosynthesis of these compounds |CITS: [19411659]|.\n\nC-glycosylation is suggested to occur much earlier than O-glycosylation of flavonoid biosynthesis, in which the glycosylation occurs only at the terminal stages. In cereals the C-glycosylation is carried out in concert by the CGT and a dehydratase which act on the 2-hydroxyflavonones. This is an alternate route for the production of flavonoid metabolites |CITS: [19411659]|\n"
+        ],
+        "synonyms": [
+          "vitexin and isovitexin biosynthesis"
+        ]
+      }
+    ]
+  },
+  "C1=CC(=CC=C1/C=C/C2=C3[C@H]([C@@H](OC3=CC(=C2)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O": {
+    "kegg": [
+      "map00941",
+      "map00940"
+    ],
+    "plantcyc": []
+  },
+  "C1=CC=C(C(=C1)C=O)O": {
+    "kegg": [
+      "map00940"
+    ],
+    "plantcyc": []
+  },
+  "C1=CC(=C(C=C1C(=O)O)O)O": {
+    "kegg": [
+      "map00940"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-5769",
+        "types": [
+          "PHENYLPROPANOID-SYN"
+        ],
+        "comment": [
+          "Gallic acid (3,4,5-trihydroxybenzoic acid) serves as a fundamental precursor for two subclasses of\nhydrolysable tannins namely gallotannins and ellagitannins. In general gallic acid occur as esters in\nplants. It is widely distributed in the plant kingdom.  Apart from plants some fungi also accumulate\nsubstantial quantity of gallic acid. Although a great deal of studies on the biosynthesis of tannins has\nbeen reported our understanding on the biosynthesis of gallic acid is still incomplete. Based on the\nradiolabelling studies, it has been proposed that gallic acid could be formed from phenylalanine  via\ncaffeic acid, 3,4,5-trihydroxycinnamic acid, or protocatechuic acid. Alternatively it is also proposed that\ngallic acid is formed from an early shikimate intermediate|CITS: [9325260]|.\n"
+        ],
+        "synonyms": [
+          "pyrogallol-5-carboxylate biosynthesis",
+          "3,4,5-Trihydroxybenzoate biosynthesis"
+        ]
+      }
+    ]
+  },
+  "COC1=CC(=CC(=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O": {
+    "kegg": [
+      "map00944"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-7160",
+        "types": [
+          "FLAVONOL-SYN"
+        ],
+        "comment": [
+          "The metabolic profile of the wild tomato |FRAME:TAX-62890 <i>Solanum habrochaites</i>| reveals a number of polymethylated myricetins such as |FRAME:CPD-14943 3,7,3'-trimethylmyricetin|, |FRAME:CPD-14944 3,7,3',5'-tetramethylmyricetin| and |FRAME:CPD-14945 3,7,3',4',5'-pentamethylmyricetin|. In contrast to the pathways |FRAME:PWY-7150 polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)| and |FRAME:PWY-7151 polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)| which accumulate polymethylated flavonol glucosides wild tomato species store polymethylated non-glucosylated flavonols instead. The polymethylated myricetins are stored in the two main types of trichomes, i.e. the 1/4 type secreting glands and the storage type gland 6 |CITS:[21343428]|. These gland types have been recently revisited and investigated in a comparative functional genomics approach. It has been found that the former secretory glands classified as type 1 and 4 represent in fact the same type but at different developmental stages. All tomato species who possess secretory glands have either type 1 or 4 or 1/4 which only are distinguished by their stalk length |CITS:[21098679]|.\n\nThree different methyltransferases have been identified and characterized from |FRAME:TAX-62890 <i>Solanum habrochaites</i>| and |FRAME:TAX-4081 <i>Solanum lycopersicum</i>| |CITS:[21343428]| |CITS:[22711283]|.  The three myricetin <i>ortho</i>-methyltransferases (MOMT's) have been isolated, cloned and expressed in |FRAME:TAX-562 <i>Escherichia coli</i>|. In order to determine the function of the three enzymes in the depicted pathway their substrate specificity was ascertained in <i>in vitro</i> assays. The purified enzymes designated as MOMT1, MOMT2 and MOMT3 exhibited strong position-specificity. MOMT1 (|FRAME:TAX-62890 <i>Solanum habrochaites</i>|) specifically methylated either the 3'-position or, when already methylated, the 5'-position of |FRAME:MYRICETIN myricetin| and |FRAME:CPD-520 quercetin| and partly methylated derivatives thereof but did not accept |FRAME:CPD1F-90 kaempferol|  as substrate. MOMT2 (|FRAME:TAX-62890 <i>Solanum habrochaites</i>|) was designated as 7/4'-methyltransferase which accepted all three flavonols (|FRAME:MYRICETIN myricetin|, |FRAME:CPD-520 quercetin|, |FRAME:CPD1F-90 kaempferol|) and their partially methylated derivatives |CITS:[21343428]|. MOMT3 (|FRAME:TAX-62890 <i>Solanum habrochaites</i>| and |FRAME:TAX-4081 <i>Solanum lycopersicum</i>|) finally was assigned as 3-methyltransferase responsible for the catalysis of the first committed step in the pathway |CITS:[22711283]|. All three methyltransferases were only expressed in trichomes, with a higher expression in the secretory glands (type 1/4) than in the storage gland (type 6).\n\nDeduced from the obtained catalytic data the methylation sequence of the pathway was projected to be 3-, 7- (A-ring) followed by 3'-, 5'- and finally 4'-methylation of the C-ring. However, more research is needed to confirm the proposed methylation sequence as several partially methylated myricetins were not available as substrates. In some of those cases |FRAME:CPD-520 quercetin| and |FRAME:CPD1F-90 kaempferol| methyl derivatives (see |FRAME:PWY-7161 polymethylated quercetin biosynthesis| and |FRAME:PWY-7163 polymethylated kaempferol biosynthesis|, respectively) were useful as substitutes to better estimate the likely substrate specificity for the MOMT's in the polymethylated myricetin biosynthesis (this pathway). The pathway shown here reflects the broad methylation capacity of the involved MOMT's projected onto the production of a number of not-accumulating potential precursors and probable interconnections rather than the exact methylation succession which remains to be verified.\n\nThe function of the polymethylated myricetins in tomato species remains to be resolved but it is likely that they play a similar role than other flavonoids in plants, i.e. UV-protection, chemical defense, pigmentation, part of signaling interactions, radical-scavenging and antioxidant activity |CITS:[16388461]|.\n"
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "CC(=O)OCC1C(C(C(C(O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C(=C4)OC)O)OC)O)O)O)O)O": {
+    "kegg": [],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6062",
+        "types": [
+          "ANTHOCYANIN-SYN"
+        ],
+        "comment": [
+          "Peonidin is an anthocyanidin. Peonidin gives purplish-red hues to flowers such as the peony, from which\nit takes its name. It is also present in some blue flowers, such as the morning glory. Like most anthocyanidins\nit is pH sensitive, and changes from red to blue as pH rises. Unlike many anthocyanidins, however, it is\nstable at higher pH. Fresh fruits such as cranberries, blueberries, plums, grapes, and cherries contain significant\namounts of peonidin. Peonidin also exist as peonidin glycosides and acylated peonidin glycosides. Peonidin\nand its glycosides have been shown to inhibit tumor cell growth and induce apoptosis in vitro |CITS: [17404064]|, |CITS: [16573384]|."
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O": {
+    "kegg": [],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6062",
+        "types": [
+          "ANTHOCYANIN-SYN"
+        ],
+        "comment": [
+          "Peonidin is an anthocyanidin. Peonidin gives purplish-red hues to flowers such as the peony, from which\nit takes its name. It is also present in some blue flowers, such as the morning glory. Like most anthocyanidins\nit is pH sensitive, and changes from red to blue as pH rises. Unlike many anthocyanidins, however, it is\nstable at higher pH. Fresh fruits such as cranberries, blueberries, plums, grapes, and cherries contain significant\namounts of peonidin. Peonidin also exist as peonidin glycosides and acylated peonidin glycosides. Peonidin\nand its glycosides have been shown to inhibit tumor cell growth and induce apoptosis in vitro |CITS: [17404064]|, |CITS: [16573384]|."
+        ],
+        "synonyms": []
+      }
+    ]
+  },
+  "C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4C(C([C@@H]([C@H](O4)C(=O)O)O)O)O": {
+    "kegg": [
+      "map00944"
+    ],
+    "plantcyc": []
+  },
+  "C1[C@@H]([C@H](OC2=C1C(=CC(=C2C3[C@H]([C@H](OC4=C(C(=CC(=C34)O)O)C5[C@H]([C@H](OC6=CC(=CC(=C56)O)O)C7=CC(=C(C=C7)O)O)O)C8=CC(=C(C=C8)O)O)O)O)O)C9=CC(=C(C=C9)O)O)O": {
+    "kegg": [
+      "map00941",
+      "map00940"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-6029",
+        "types": [
+          "FLAVONOID-SYN",
+          "Metabolic-Clusters"
+        ],
+        "comment": [
+          "Flavonoids are highly diverse class of plant plant polyphenols (with about 9000 compounds have been identified\nso far |CITS: [16137727]| that impart much of the color and flavor of fruits and vegetables. They exhibit a\nwide range of biological functions in higher plants such as UV protection, flower coloration, and antimicrobial a\nactivity |CITS: [11130659]|. They also exhibit antioxidant and anticancer properties |CITS: [12224601]| |CITS: [18645020]|.\n\nFlavanols\n\nFlavanols also called flavan-3-ols represent a classs of flavonoids and are the building blocks of condensed tannins.\nThey are antioxidants and clinical studies have shown the anticancer protective effects of flavanols catechin,\nepicatechin, gallocatechin, and epigallocatechin |CITS: [14725861]|. It has recently been shown that epicatechin\npresent in dark chocolate has potential to promote cardiovascular health in humans.\n\nFlavan-3-ols exist in two sterioisofoms namely 2,3-<i>trans</i>-flavan-3-ols and 2,3-<i>cis</i>-flavan-3-ols.\n|FRAME:MONOMER-14180| converts leucoanthocyanidins to their corresponding 2,3-<i>trans</i>-flavan-3-ols."
+        ],
+        "synonyms": [
+          "flavan-3-ols biosynthesis"
+        ]
+      }
+    ]
+  },
+  "C1=CC=C(C=C1)C(=O)O": {
+    "kegg": [
+      "map01063"
+    ],
+    "plantcyc": [
+      {
+        "pathway_id": "PWY-5001",
+        "types": [
+          "XANTHONE-SYN"
+        ],
+        "comment": [
+          "<b>General Background:</b> Xanthones are yellow pigments of phenolic origin restricted in occurrence to only a few families\nof higher plants and some fungi and lichens. The majority of xanthones is rarely glucosylated and has been found in basically\ntwo families of higher plants, the <i>Clusiaceae</i> (syn. <i>Guttiferae</i>) and <i>Gentianaceae</i> |CITS: [Hostettmann89]|\n|CITS: [Bennett89]|. However, xanthones also appear sporadically throughout the remainder of the plant kingdom.\nXanthone-C-glucosides, such as mangiferin are the exception with a much wider distribution among plants and also arising\nin ferns and fungi |CITS: [Hostettmann89]|.\n\nXanthones can be classified based on their oxygenation, prenylation and glucosylation pattern. The majority of xanthones\nisolated so far are of the tetraoxygenated-type which have been intensively studied in plants of the <i>Guttiferae</i> and\n<i>Gentianaceae</i> but are reported from 12 other plant families as well |CITS: [11190384]|. The restricted biosynthesis of\nxanthones and their plant-specific substitution pattern has been employed as a useful marker for systematic purposes,\ni.e. comparing the phyletic order of genera within the <i>Guttiferae</i> |CITS: [Da Mate Rezente73]|and chemotaxonomic differentiation\nbetween plant families |CITS: [Sultanbawa80]|.\n\nXanthones posses a number of remarkable pharmacological traits and bioactivities (summarized in |CITS: [11190384]|) and\nhave been used as, e.g. cardiovascular protective agents |CITS: [15179447]| and antitumor promotors |CITS: [10397461]|.\nTetrahydroxylated xanthones can be induced by phytopathogens |CITS: [12391565]| and accumulate in calli and cell suspension\nupon treatment with plant hormones and supplements, such as naphtaleneacetic acid (NAA) in combination with kinetin |CITS: [DIAS00]|.\n\n<b>About the pathway:</b> The biosynthesis of plant xanthones originates mainly from a mixed shikimate-acetate pathway,\nhowever xanthones entirely derived from acetate have also been reported in lower plants |CITS: [11190384]| |CITS: [Hostettmann89]|.\nThe main steps in the xanthone biosynthesis involve the condensation of shikimate and acetate moieties which constitute\na benzophenone intermediate followed by a regioselective, oxidative mediated intra-molecular coupling to form the xanthone\nring |CITS: [Peters98]|.\n\nThe shikimate derivatives used as entry compounds for the tetrahydroxyxanthone biosynthesis differ in relation to the\ninvestigated plants (<i>Hypericum androsaemum</i> vs <i>Centaurium erythraea</i>) |CITS: [11216850]| |CITS: [11882941]|.\nThese plants belong to different families that seem to have developed biosynthetic variants of the tetrahydroxyxanthone synthesis\nwhich involves enzymes of diverse regioselectivity and substrate preference and leads to varying intermediates |CITS: [Peters98]|\n|CITS: [9459298]|.\n\nThe biosynthesis of tetrahydroxyxanthone via benzoate (this pathway) in <i>Hypericum androsaemum</i> is achieved by\nthe stepwise condensation of 3 malonyl-CoA and benzoyl-CoA to form an intermediate tetrahydroxybenzophenone. This\npathway is different from the <i>Centaurium erythraea</i> variant (|FRAME:PWY-5002|) with regard to the regiospecificity\nand substrate usage of the involved enzymes. The benzophenone synthase prefers benzoyl-CoA |CITS: [12795704]|, which\nin turn is provided by the catalytic action of a 3-hydroxybenzoate:coenzyme A ligase using benzoic acid |CITS: [12054436]|\n|CITS: [9459298]|. The new intermediate, 2,4,6-trihydroxybenzophenone is further hydroxylated and converted to the\n2,3',4,6-tetrahydroxyphenone intermediate, common to both pathways.\n\nThe crucial step in the biosynthetic sequence is the cyclization of the benzophenone to form a xanthone, catalyzed by xanthon\nsynthases. While in <i>Centaurium erythraea</i> the xanthone synthase converts this tetrahydroxybenzophenone intermediate\nregioselective to 1,3,5-trihydroxyxanthone the xanthone synthase of <i>Hypericum androsaemum</i> converts it to the\n1,3,7-trihydroxyxanthone. Therefore all xanthones and their derivatives in <i>Hypericum androsaemum</i> are 7-oxygenated\nin contrast to the constituents in the <i>Centaurium erythraea</i> pathway which all carry a 5-hydroxy group |CITS: [Peters98]|.\n\nThe last step in the biosynthesis of the tetrahydroxyxanthones is the introduction of a hydroxyl group to the C-ring of the\nxanthone skeleton.  This reaction is carried out by the plant-specific cytochrome P450-dependend monooxygenase\nxanthone-6-hydroxylase to form the 1,3,6,7-tetrahydroxyxanthone |CITS: [10731018]|. Further products found in <i>Hypericum androsaemum</i>\nare all derivatives of either 1,3,6,7- or 1,3,5,6-tetrahydroxyxanthones |CITS: [NIELSEN79]| |CITS: [10865463]| implicating\nthat no more hydroxylations occur in this species.\n"
+        ],
+        "synonyms": []
+      },
+      {
+        "pathway_id": "PWY-5883",
+        "types": [
+          "ALKALOIDS-SYN"
+        ],
+        "comment": [
+          "Ephedrine and pseudoephedrine are alkaloids produced in the plant genus Ephedra. Ephedrine is used by\nhuman beings as a stimulant, appetite suppressant, concentration aid, decongestant and to treat\nhypotension from such as spinal/epidural anaesthesia. In traditional Chinese medicine, ephedrine has\nbeen used in the treatment of asthma. Ephedrine acts on neurotransmission in the brain due to its ability\nto increase the release of neurotransmitters dopamine and serotonin. The ephedrine biosynthesis\npathway was proposed based on radio tracer experiments. No enzyme has been characterized for this\npathway.\n"
+        ],
+        "synonyms": []
+      }
+    ]
+  }
+}

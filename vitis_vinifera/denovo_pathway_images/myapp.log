@@ -1,0 +1,151 @@
+INFO:root:Starting MCTS search for molecule: C1=CC(=C(C=C1/C=C/C(=O)O[C@H]([C@H](C(=O)O)O)C(=O)O)O)O with root value: 167.19046020507812
+INFO:root:State ['C1=CC(=C(C=C1/C=C/C(=O)O[C@H]([C@H](C(=O)O)O)C(=O)O)O)O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 1, count: 1
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1[C@H]([C@H](OC2=C1C(=CC(=C2[C@@H]3[C@H]([C@H](OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O with root value: 202.10845947265625
+INFO:root:State ['C1[C@H]([C@H](OC2=C1C(=CC(=C2[C@@H]3[C@H]([C@H](OC4=CC(=CC(=C34)O)O)C5=CC(=C(C=C5)O)O)O)O)O)C6=CC(=C(C=C6)O)O)O'] is being expanded.
+INFO:root:State ['Oc1cc(O)c2c(c1)O[C@H](c1ccc(O)c(O)c1)[C@H](O)C2'] is being expanded.
+INFO:root:State ['Oc1cc(O)c2ccc(-c3ccc(O)c(O)c3)[o+]c2c1'] is being expanded.
+INFO:root:State ['O=C(/C=C/c1ccc(O)c(O)c1)c1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 4, count: 5
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: CC(=O)OCC1[C@H](C(C([C@@H](O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C=C4)O)OC)O)O)O)O)O with root value: 268.4376220703125
+INFO:root:State ['CC(=O)OCC1[C@H](C(C([C@@H](O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C=C4)O)OC)O)O)O)O)O'] is being expanded.
+INFO:root:State ['CC(=O)O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 2, count: 7
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4C(C([C@@H](C(O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O)O with root value: 300.8899230957031
+INFO:root:State ['COC1=C(C=CC(=C1)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4C(C([C@@H](C(O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O)O'] is being expanded.
+INFO:root:State ['*C(=O)/C=C/c1ccc(O)cc1'] is being expanded.
+INFO:root:State ['*C(=O)/C=C/c1ccccc1'] is being expanded.
+INFO:root:State ['*C(C)=O'] is being expanded.
+INFO:root:State ['*C(=O)[C@H](C)O'] is being expanded.
+INFO:root:State ['*C(=O)C=C'] is being expanded.
+INFO:root:State ['*C(=O)CC'] is being expanded.
+INFO:root:State ['*C(=O)[C@@H](C)O'] is being expanded.
+INFO:root:State ['C[C@@H](O)C(=O)O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 9, count: 16
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=CC(=CC=C1[C@H]2[C@H]3[C@H]([C@@H](C4=C3C=C(C=C4O)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)O with root value: 123.89681243896484
+INFO:root:State ['C1=CC(=CC=C1[C@H]2[C@H]3[C@H]([C@@H](C4=C3C=C(C=C4O)O)C5=CC=C(C=C5)O)C6=C2C(=CC(=C6)O)O)O'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@H]3[C@@H](c4ccc(O)cc4)c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3C(c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@@H](c3ccc(O)cc3)[C@H]3c4c(O)cc(O)cc4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3cc(O)cc(O)c3[C@H](c3ccc(O)cc3)[C@@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@H](c3ccc(O)cc3)[C@@H]3c4c(O)cc(O)cc4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3cc(O)cc(O)c3[C@@H](c3ccc(O)cc3)[C@H]3c4cc(O)cc(O)c4[C@@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@H]2c3c(O)cc(O)cc3[C@@H](c3ccc(O)cc3)[C@@H]3c4c(O)cc(O)cc4[C@H]23)cc1'] is being expanded.
+INFO:root:State ['Oc1ccc([C@@H]2c3c(O)cc(O)cc3[C@H]3c4c(O)cc(O)cc4[C@H](O)[C@H]23)cc1'] is being expanded.
+INFO:root:State ['O=C1c2c(O)cc(O)cc2[C@H](c2ccc(O)cc2)[C@H]1c1ccc(O)cc1'] is being expanded.
+INFO:root:Search completed with success: True, depth: 4, count: 46
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=CC(=CC=C1/C=C/C2=C3[C@H]([C@@H](OC3=CC(=C2)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O with root value: 166.64158630371094
+INFO:root:State ['C1=CC(=CC=C1/C=C/C2=C3[C@H]([C@@H](OC3=CC(=C2)O)C4=CC=C(C=C4)O)C5=CC(=CC(=C5)O)O)O'] is being expanded.
+INFO:root:State ['Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1'] is being expanded.
+INFO:root:Search completed with success: True, depth: 2, count: 48
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=CC=C(C(=C1)C=O)O with root value: 99.79292297363281
+INFO:root:State ['C1=CC=C(C(=C1)C=O)O'] is being expanded.
+INFO:root:State ['O=Cc1ccccc1'] is being expanded.
+INFO:root:State ['NCc1ccccc1'] is being expanded.
+INFO:root:Search completed with success: True, depth: 3, count: 51
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=CC(=C(C=C1C(=O)O)O)O with root value: 102.16730499267578
+INFO:root:State ['C1=CC(=C(C=C1C(=O)O)O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C/C=C(\\C=O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C\\C=C(\\C(=O)O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C\\C=C(/O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C/C=C(/O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C\\C=C(\\O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C/C=C(\\O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)/C=C/C(=O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)/C=C\\C(=O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)/C(O)=C\\C(=O)C(=O)O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 10, count: 61
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: COC1=CC(=CC(=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O with root value: 256.65045166015625
+INFO:root:State ['COC1=CC(=CC(=C1O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O'] is being expanded.
+INFO:root:State ['*C(=O)c1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:State ['*C(=O)CC(=O)CC(=O)CC(=O)CC(=O)O'] is being expanded.
+INFO:root:State ['*C(=O)/C=C(\\CC(=O)CC(=O)CC(=O)O)O'] is being expanded.
+INFO:root:State ['*C(=O)C[C@@H](O)CC(=O)CC(=O)CC(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)CC(=O)CC(=O)CC(=O)CC(=O)O'] is being expanded.
+INFO:root:State ['CC(=O)CC(=O)CC(=O)CC(=O)O'] is being expanded.
+INFO:root:State ['CC(=O)CC(C)=O'] is being expanded.
+INFO:root:State ['CC(C)=O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 9, count: 70
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: CC(=O)OCC1C(C(C(C(O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C(=C4)OC)O)OC)O)O)O)O)O with root value: 258.28289794921875
+INFO:root:State ['CC(=O)OCC1C(C(C(C(O1)OC2=CC3=C(C=C(C=C3[O+]=C2C4=CC(=C(C(=C4)OC)O)OC)O)O)O)O)O'] is being expanded.
+INFO:root:State ['COc1cc(B(O)O)cc(OC)c1O'] is being expanded.
+INFO:root:State ['COc1cc(B(O)O)cc(OC)c1OC'] is being expanded.
+INFO:root:State ['COc1cc(Br)cc(OC)c1OC', 'OB(O)O'] is being expanded.
+INFO:root:State ['Br', 'COc1cccc(OC)c1OC', 'OB(O)O'] is being expanded.
+INFO:root:State ['COc1cccc(OC)c1OC', 'O=C(O)C(Br)(Br)Br', 'OB(O)O'] is being expanded.
+INFO:root:State ['COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc(OC)c1O'] is being expanded.
+INFO:root:State ['Oc1cc(O)c2cc(O)c(-c3cc(O)c(O)c(O)c3)[o+]c2c1'] is being expanded.
+INFO:root:State ['Oc1cc(O)c2ccc(-c3cc(O)c(O)c(O)c3)[o+]c2c1'] is being expanded.
+INFO:root:State ['O=C(/C=C/c1c(O)cc(O)cc1O)c1cc(O)c(O)c(O)c1'] is being expanded.
+INFO:root:State ['*C(=O)/C=C/c1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:State ['*C(=O)CCc1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:State ['O=C(O)CCc1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:State ['O=C(O)/C=C/c1c(O)cc(O)cc1O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 9, count: 84
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O with root value: 297.66033935546875
+INFO:root:State ['COC1=CC(=CC(=C1O)OC)C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)COC(=O)/C=C/C5=CC=C(C=C5)O)O)O)O)O)O'] is being expanded.
+INFO:root:State ['OC[C@H]1O[C@@H](Oc2cc3c(O)cc(O)cc3[o+]c2-c2cc(O)c(O)c(O)c2)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO'] is being expanded.
+INFO:root:State ['OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['O=C(O)[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO'] is being expanded.
+INFO:root:State ['O=C[C@H](O)[C@@H](O)[C@H](O)[C@H](O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)[C@@H](O)[C@H](O)C(=O)C(=O)O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 12, count: 96
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4C(C([C@@H]([C@H](O4)C(=O)O)O)O)O with root value: 222.85182189941406
+INFO:root:State ['C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4C(C([C@@H]([C@H](O4)C(=O)O)O)O)O'] is being expanded.
+INFO:root:State ['O=C(O)[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['O=C(O)[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O'] is being expanded.
+INFO:root:State ['O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO'] is being expanded.
+INFO:root:State ['O=C(O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO'] is being expanded.
+INFO:root:State ['O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)[C@@H](O)[C@H](O)[C@@H](O)CO'] is being expanded.
+INFO:root:State ['O=C(O)C(=O)[C@@H](O)[C@H](O)C(=O)CO'] is being expanded.
+INFO:root:Search completed with success: True, depth: 8, count: 104
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1[C@@H]([C@H](OC2=C1C(=CC(=C2C3[C@H]([C@H](OC4=C(C(=CC(=C34)O)O)C5[C@H]([C@H](OC6=CC(=CC(=C56)O)O)C7=CC(=C(C=C7)O)O)O)C8=CC(=C(C=C8)O)O)O)O)O)C9=CC(=C(C=C9)O)O)O with root value: 204.18988037109375
+INFO:root:State ['C1[C@@H]([C@H](OC2=C1C(=CC(=C2C3[C@H]([C@H](OC4=C(C(=CC(=C34)O)O)C5[C@H]([C@H](OC6=CC(=CC(=C56)O)O)C7=CC(=C(C=C7)O)O)O)C8=CC(=C(C=C8)O)O)O)O)O)C9=CC(=C(C=C9)O)O)O'] is being expanded.
+INFO:root:State ['Oc1cc(O)cc(O)c1'] is being expanded.
+INFO:root:Search completed with success: True, depth: 2, count: 106
+INFO:root:[]
+INFO:root:Starting MCTS search for molecule: C1=CC=C(C=C1)C(=O)O with root value: 89.29999542236328
+INFO:root:State ['C1=CC=C(C=C1)C(=O)O'] is being expanded.
+INFO:root:State ['Oc1ccccc1'] is being expanded.
+INFO:root:State ['Oc1ccccc1O'] is being expanded.
+INFO:root:Search completed with success: True, depth: 3, count: 109
+INFO:root:[]
